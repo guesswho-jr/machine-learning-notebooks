@@ -10,7 +10,7 @@ This repository documents my journey into machine learning, covering fundamental
 - **Pandas & NumPy** – Data manipulation and numerical computing
 - **Matplotlib** – Data visualization
 - **Scikit-learn** – Machine learning algorithms, preprocessing, and model evaluation
-- **TensorFlow & Keras** – Neural networks and deep learning
+- **TensorFlow, PyTorch & Keras** – Neural networks and deep learning
 - **Jupyter Notebook** – Interactive development and experimentation
 
 ## Repository Structure
